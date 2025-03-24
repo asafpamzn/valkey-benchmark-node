@@ -21,7 +21,7 @@ Key Advantages:
 1. Clone the repository:
     ```bash
     git clone <repository-url>
-    cd valkey-glide-benchmark/node
+    cd valkey-benchmark-node
     ```
 
 2. Install dependencies:
